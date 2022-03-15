@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `npm start`
-Click here to see this project- https://shopping-cart-89a36.web.app/
+### `Visit the link below to see this project`
+ https://shopping-cart-89a36.web.app/
 
 ### `npm start`
 
